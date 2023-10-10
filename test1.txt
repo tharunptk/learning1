@@ -1,3 +1,7 @@
 hi there
 
+<<<<<<< HEAD
 karthik made changes
+=======
+madhuri made changessss
+>>>>>>> 1e4947554b8885c47439c5e7c143d48448533255
